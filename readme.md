@@ -61,4 +61,4 @@ Your goal in this homeowrk is to design your own calculator from scratch using t
 4.  5 Points for having a calculation class that stores the arthitmentic operation in a instance property.
 5.  15 Points for having a calculation history to store calculation instances
 6.  10 Points for having the convenience methods on the calculations class to manage the history
-7.  10 Points for using parameterized test data
+7.  10 Points for using parameterized test data (do not directly copy my test cases; you need to modify and add your own test cases, or points will be deducted).
